@@ -25,3 +25,25 @@
 #container a {
   text-decoration: none;
 }
+
+#pastel {
+  width:auto;
+  height:auto;
+  margin: 0.9cm;
+  border-radius: 10%;
+  display: flex; 
+
+}
+
+ion-card-title {
+  display: flex; 
+  justify-content: center; 
+  align-items: center; 
+  text-align: center; 
+  height: 100%; 
+}
+
+ion-button {
+  --background: #d87eab; /* Fondo rosado */
+  --color: #ffffff; /* Texto blanco */
+}
